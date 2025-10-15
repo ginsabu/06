@@ -26,6 +26,10 @@ void get_max(int x, int y)
 
 int main(void)
 {
+	
+	printf("hello world!\n");
+	return 0;
+	
     int a, b;
     int n;
     int x, y;
